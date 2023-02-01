@@ -1,0 +1,5 @@
+{"intents": [
+    {"tag": "Bienvenida",
+    "patterns": ["Hola","ola","buenas tardes", "buenas dias","buenas noches", "Que precio"],
+    "responses": ["Gracias por comunicarte con MaryAngel"]}
+]}
